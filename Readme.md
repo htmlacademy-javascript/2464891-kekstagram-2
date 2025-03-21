@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Aleksander Panyushkin](https://up.htmlacademy.ru/javascript-individual/2/user/2464891).
-* Наставник: `Неизвестно`.
+* Наставник: [Виктория Никитина](https://htmlacademy.ru/profile/id1217273).
 
 ---
 
